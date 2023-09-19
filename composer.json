@@ -30,7 +30,8 @@
     "symfony/var-dumper": "^5.0 || ^6.0"
   },
   "replace": {
-    "facebook/webdriver": "*"
+    "facebook/webdriver": "*",
+    "instaclick/php-webdriver": "*"
   },
   "suggest": {
     "ext-SimpleXML": "For Firefox profile creation"
